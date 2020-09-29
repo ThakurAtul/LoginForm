@@ -1,0 +1,64 @@
+
+.card{
+    
+    box-shadow:  0px  4px  8px  0px  rgb(0, 102, 133);
+    transition: 0.3s;
+    width:30%;
+    position: relative;
+    left:60%;
+    top: 200px;
+    border-radius: 25px;
+}
+
+.card:hover{
+
+    box-shadow:  0px  8px  16px  0px  rgb(0, 102, 133);
+}
+.container {
+    padding: 15px 20px;
+}
+
+input{
+    padding: 10px;
+    border: none;
+    border-bottom: 1.2px solid rgb(0, 102, 133);
+    position: relative;
+    left: 75px;
+    margin-bottom: 5px;
+    color: rgb(0, 102, 133);
+    
+}
+
+p{
+    position: relative;
+    left: 105px;
+    font-size: 11px;
+    margin-bottom: 30px;
+    color: rgb(0, 102, 133);
+}
+p a{
+    color: rgb(0, 102, 133);
+    
+    text-decoration: none;
+}
+.btn{
+    padding: 8px 15px;
+    width: 185px;
+    position: relative;
+    left: 75px;
+    border-radius: 15px;
+    color: white;
+    background-color: rgb(0, 102, 133);
+    margin-bottom: 20px;
+}s
+
+.btn:hover{
+    background-color:rgb(226, 222, 222);
+    color: black;
+}
+
+.container h2{
+    position: relative;
+    left: 80px;
+    color: rgb(0, 102, 133);
+}
